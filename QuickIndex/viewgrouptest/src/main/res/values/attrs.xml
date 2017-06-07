@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingItemView">
+        <attr name="my_background" format="enum">
+            <enum name="first" value="1" />
+            <enum name="middle" value="2" />
+            <enum name="last" value="3" />
+        </attr>
+        <attr name="my_title" format="string">
+        </attr>
+        <attr name="my_toggle" format="boolean">
+
+        </attr>
+
+    </declare-styleable>
+</resources>

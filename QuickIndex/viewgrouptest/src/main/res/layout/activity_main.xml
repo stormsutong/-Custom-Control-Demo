@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="10dp"
+    android:orientation="vertical">
+
+   <!-- 自定义控件抽取代码-->
+    <com.heima.viewgrouptest.SettingItemView
+        android:id="@+id/siv"
+        android:clickable="true"
+        app:my_toggle="true"
+        app:my_background="first"
+        app:my_title="自动设置1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.heima.viewgrouptest.SettingItemView>
+    <com.heima.viewgrouptest.SettingItemView
+        app:my_title="自动设置2"
+        app:my_background="middle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.heima.viewgrouptest.SettingItemView>
+    <com.heima.viewgrouptest.SettingItemView
+        app:my_title="自动设置3"
+        app:my_background="last"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.heima.viewgrouptest.SettingItemView>
+
+
+</LinearLayout>

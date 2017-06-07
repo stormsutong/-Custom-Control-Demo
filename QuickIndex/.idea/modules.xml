@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuickIndex.iml" filepath="$PROJECT_DIR$/QuickIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gooview/gooview.iml" filepath="$PROJECT_DIR$/gooview/gooview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gooviewtest/gooviewtest.iml" filepath="$PROJECT_DIR$/gooviewtest/gooviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shichi/shichi.iml" filepath="$PROJECT_DIR$/shichi/shichi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testUI/testUI.iml" filepath="$PROJECT_DIR$/testUI/testUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewgrouptest/viewgrouptest.iml" filepath="$PROJECT_DIR$/viewgrouptest/viewgrouptest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\default_pic_2.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\default_pic_2.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_index_btn_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_index_btn_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_regist_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_regist_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_style_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_style_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_cam_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_cam_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_user_login_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_user_login_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_cam.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_cam.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_shopping_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_shopping_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\index_shopping.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\index_shopping.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_set_btn_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\top_bar_set_btn_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_show_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_show_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\index_looks.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\index_looks.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_show.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_show.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_shopping_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_shopping_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_home.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_home.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_img_ratio_selected.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_img_ratio_selected.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_looks_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_looks_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\set_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\index_show.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\index_show.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\default_pic.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\default_pic.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_select_list_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_select_list_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\login_btn_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_bottom_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_bottom_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_show_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_show_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_shopping.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_shopping.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\index_browse.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\index_browse.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_select_bg.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_select_bg.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_set_btn.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\top_bar_set_btn.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_index_arrow.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_index_arrow.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\register_btn_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\index_search.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\index_search.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\default_pic_4.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\default_pic_4.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_logo.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\top_bar_logo.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_cam_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_cam_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\ratio_img_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\ratio_img_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_img_ratio.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_img_ratio.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_home_d.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_home_d.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\default_pic_1.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\default_pic_1.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_bg.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\top_bar_bg.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_home_bn_style.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_home_bn_style.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\default_pic_3.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\default_pic_3.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\home_index_btn.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\home_index_btn.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\login_btn.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_looks.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_looks.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\register_btn.png"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\module\\QuickIndex\\testUI\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_bg.png",
+        "source": "F:\\module\\QuickIndex\\testUI\\src\\main\\res\\drawable\\bottom_bg.png"
+    }
+]
